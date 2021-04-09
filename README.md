@@ -1,4 +1,4 @@
-# hooh_water_methanol
+# hooh_water_methanol database
 This is the MD database of paper "Dissociation of Hydrogen Peroxide (HOOH) in Water and Methanol through a Biased Molecular Dynamics Investigation".
 
 The database contains the atomic positions in the xyz format with 250-500MD steps in each file.
